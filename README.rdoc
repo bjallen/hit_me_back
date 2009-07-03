@@ -1,0 +1,7 @@
+= hit_me_back
+
+Hit Me Back is a simple subscribe/notify observer pattern framework. It has no dependencies which allows it to work well in situations where you are packaging up self-contained applications that may or may not be using their own embedded ruby vm.
+
+== Copyright
+
+Copyright (c) 2009 B.J. Allen. See LICENSE for details.
