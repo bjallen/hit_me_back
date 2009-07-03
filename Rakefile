@@ -6,6 +6,7 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "hit_me_back"
     gem.summary = %Q{Hit Me Back is a simple subscribe/notify observer pattern framework.}
+    gem.description = %Q{Simple subscribe/notify observer pattern framework for Ruby projects}
     gem.email = "bjallen@mac.com"
     gem.homepage = "http://github.com/bjallen/hit_me_back"
     gem.authors = ["B.J. Allen"]

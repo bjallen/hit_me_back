@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["B.J. Allen"]
   s.date = %q{2009-07-03}
+  s.description = %q{Simple subscribe/notify observer pattern framework for Ruby projects}
   s.email = %q{bjallen@mac.com}
   s.extra_rdoc_files = [
     "LICENSE",
