@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{hit_me_back}
-  s.version = "0.0.0"
+  s.version = "1.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["B.J. Allen"]
@@ -19,8 +19,10 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "hit_me_back.gemspec",
      "lib/hit_me_back.rb",
      "lib/hit_me_back/event.rb",
+     "pkg/hit_me_back-0.0.0.gem",
      "test/hit_me_back_test.rb",
      "test/test_helper.rb"
   ]
