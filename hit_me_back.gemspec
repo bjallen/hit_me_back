@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
      "lib/hit_me_back.rb",
      "lib/hit_me_back/event.rb",
      "pkg/hit_me_back-0.0.0.gem",
+     "pkg/hit_me_back-1.0.0.gem",
      "test/hit_me_back_test.rb",
      "test/test_helper.rb"
   ]
